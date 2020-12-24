@@ -1,0 +1,11 @@
+
+/EDU/data structure/C++ Plus Data Structures, 3rd Edition (2003).pdf
+/EDU/data structure/C++3e20110915.pdf
+/EDU/programming 1/C++worksheet.zip
+/EDU/programming 2/C++ Binary File I O.htm
+/EDU/programming 2/C++ text and binary file operation.htm
+/usr/bin/c++
+/usr/bin/c++filt
+/EDU/data structure/data structure/C++3e20110915.pdf
+/EDU/edu/DSA/C++ Plus Data Structures, 3rd Edition (2003).pdf
+/EDU/programming 1/pdfs/C++ Complete Reference - Herbert Schildt.pdf

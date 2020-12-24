@@ -1,0 +1,31 @@
+
+
+.table-view {
+    -fx-base: rgb(203,236,253);
+    -fx-control-inner-background: rgb(242,244,245);
+
+    -fx-table-cell-border-color: transparent;
+
+    -fx-padding: 5;
+}
+
+.table-view .column-header-background {
+    -fx-background-color: rgb(220,218,220);
+}
+
+.table-view .column-header, .table-view .filler {
+    -fx-size: 35;
+    -fx-border-width: 0 0 1 0;
+
+    -fx-border-insets: 0 10 1 0;
+}
+
+.table-view .column-header {
+    -fx-font-size: 20pt;
+    -fx-font-family: "Segoe UI Light";
+    -fx-alignment: center-left;
+    -fx-opacity: 0.5;
+}
+
+
+
